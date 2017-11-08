@@ -7,9 +7,15 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/b0ca2b6b0b3b86d23e852bb4e9e77d49.git:helloWorld.groovy": [
+      "https://gist.github.com/b0ca2b6b0b3b86d23e852bb4e9e77d49.git",
+      "helloWorld.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.0",
+    "fontsize": 12,
     "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/Octogonapus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
