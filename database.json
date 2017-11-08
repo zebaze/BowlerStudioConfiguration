@@ -10,7 +10,7 @@
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.0",
-    "skinBranch": "0.22.1",
+    "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/Octogonapus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
